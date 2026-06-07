@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.hero-tagline {
+  font-weight: 700;
+}
 body {
   font-family: "Helvetica Neue", Arial;
   background: #050507;
